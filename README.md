@@ -1,4 +1,4 @@
-# mail_list
+# vue-electron
 
 > A Vue.js project packaged with electron, built for scotch.io
 
