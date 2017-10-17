@@ -12,6 +12,6 @@ npm install
 sudo npm install -g electron
 
 # run the application
-election .
+electron .
 ```
 
