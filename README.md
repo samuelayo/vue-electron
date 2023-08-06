@@ -14,4 +14,3 @@ sudo npm install -g electron
 # run the application
 electron .
 ```
-
